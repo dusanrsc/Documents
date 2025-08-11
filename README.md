@@ -1,4 +1,4 @@
 # Documents For Learning Purposes.
 
 # MVVM Architecture Diagram:
-<img width="100%" alt="MVVM_Architecture_Diagram" src="https://github.com/user-attachments/assets/4d0992c8-88f9-4b6c-8bb9-ce9d77195cfe" />
+<img width="100%" alt="MVVM_Architecture_Diagram" src="https://github.com/user-attachments/assets/7ffb3d79-fcb9-40f9-a389-a6e82537e0c9" />
